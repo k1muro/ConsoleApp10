@@ -10,7 +10,7 @@ namespace ConsoleApp10
         public int Id { get; set; }
         public string Firstname { get; set; }
         public string Lastname { get; set; }
-        public int BooksId { get; set; }
+        public int BooksId { get; set; }dasdasdsa
 
         public virtual Book Books { get; set; }
     }
